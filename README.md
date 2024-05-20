@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤔 I’m looking for help with my metal issue.
+- 🤔 I’m looking for help with my mental issue.
 - 💬 Ask me about coding or gaming or some thing a NEET know :)).
 - 😄 Pronouns: ###not she/her.
 <!--
