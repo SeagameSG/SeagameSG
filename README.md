@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🤔 I’m looking for help with my mental issue.
 - 💬 Ask me about coding or gaming or some thing a NEET know :)).
-- 😄 Pronouns: ###not she/her.
+- 😄 Pronouns: not she/her.
 <!--
 **SeagameSG/SeagameSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
