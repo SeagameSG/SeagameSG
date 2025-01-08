@@ -1,6 +1,5 @@
-<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=36&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Hi+there!;I'm+SeagameSG+aka+LamTrachDong.+;Welcome+to+my+Github+profile." alt="Typing SVG" />
-</div>
+
 <h2 align="left"></h2>
 
 ###
@@ -54,12 +53,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SeagameSG&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=true&custom_title=Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeagameSG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=bear&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SeagameSG&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=SeagameSG&locale=en&mode=daily&theme=bear&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/SeagameSG/SeagameSG/output/snake.svg" alt="Snake animation" />
 
 ###
 
