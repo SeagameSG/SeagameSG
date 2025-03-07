@@ -15,7 +15,7 @@
 <li>🎓 &nbsp; I'm a graduate of Nong Lam University with a major in Information Technology.</li>
 <li>💼 &nbsp; Specialize in Software Development</li>
 <li>💭 &nbsp; I’m living now in Ho Chi Minh City, Viet Nam.</li>
-<li>🧠 &nbsp; It is my pleasure to play games with my friends in my spare time.</li>
+<li>🧠 &nbsp; I like to listen to music and watch anime when I have some spare time.</li>
 </ul>
 
 ###
